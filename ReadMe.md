@@ -4,7 +4,7 @@ It is often easier to work with multiple objects in a single Blender file, for e
 
 ## Installation
 
-* Download the latest release from [here](https://github.com/hextantstudios/hextant_python_debugger/releases/latest/download/hextant_batch_exporter.zip) or clone it using Git to your custom Blender `...\scripts\addons\` folder.
+* Download the latest release from [here](https://github.com/hextantstudios/hextant_batch_exporter/releases/latest/download/hextant_batch_exporter.zip) or clone it using Git to your custom Blender `...\scripts\addons\` folder.
 * From Blender's Main Menu:
   * *Edit / Preferences*
   * Click the *Install* button and select the downloaded zip file.
